@@ -1,0 +1,20 @@
+RENDERING
+
+Rendering a text from a source onto a target language is a linguistic procedure that presupposes simultaneous operations of compressing the original text to the limits of its informational necessity and sufficiency (your task is to compress up to 2/3 of the original text) and choosing the most effective linguistic means of the target language to convey the message of the original text.
+To render an article consider the following points:
+1. Read the original text to define its problematic issue.
+2. Render the headline of the original text into English. 
+3. Write the introductory paragraph mentioning the title of the article, the source it was published in, the name of the author and the problematic issue he / she raises in the article.
+4. Write the main body (no more than 2 paragraphs). In the main body of sspaper, 
+•	render the facts from the article in the order they are stated in the original text;
+•	mind the rules of paragraphing. Each paragraph starts with the topic sentence that contains the idea of the paragraph. The topic sentence should be concise and clear. Note that one sentence does not make a paragraph;
+•	avoid a word-for-word translation. Instead, synthesize the basic facts deducing cause(s) and result(s) and highlighting the author’s standpoint;
+•	leave out the details (unless they are of crucial importance in the original text), numbers, statistic data, and names of secondary importance; 
+•	avoid specific terms;
+•	stick to the Present Simple only;
+•	provide coherence and cohesion to the paper;
+•	punctuate the paper in accordance with the rules of academic writing;
+•	avoid evaluative language (emotionally - estimated words, e.g. interesting, important, necessary, good, impressive etc.)
+•	provide the neutral tone.
+5. Write the concluding paragraph expressing in a friendly tone your own opinion on the problem raised in the article.
+
